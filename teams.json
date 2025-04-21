@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "竹北科技象",
+    "logo": "zhubei-elephants.jpg"
+  },
+  {
+    "id": 2,
+    "name": "竹東黑幫雞",
+    "logo": "zhudong-gangchick.png"
+  },
+  {
+    "id": 3,
+    "name": "新豐EMO鯨",
+    "logo": "xinfeng-emo-whale.png"
+  }
+]
